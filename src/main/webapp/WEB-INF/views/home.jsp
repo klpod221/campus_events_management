@@ -28,7 +28,7 @@
                                     <h4 class="card-title">Luyện Vi Hữu Khiêm </h4>
                                     <h6 class="category text-gray">B19DCVT204</h6>
                                     <p class="card-description">
-                                        
+
                                     </p>
                                     <div class="footer">
                                         <a href="" class="btn btn-just-icon btn-twitter btn-round"><i class="fa fa-twitter"></i></a>
@@ -42,7 +42,7 @@
                             <div class="card card-profile">
                                 <div class="card-image">
                                     <a href="">
-                                        <img class="img" src="${contextPath}/resources/img/examples/card-profile1.jpg" />
+                                        <img class="img" src="${contextPath}/resources/img/examples/card-profile2.jpg" />
                                     </a>
                                 </div>
 
@@ -64,7 +64,7 @@
                             <div class="card card-profile">
                                 <div class="card-image">
                                     <a href="">
-                                        <img class="img" src="${contextPath}/resources/img/examples/card-profile1.jpg" />
+                                        <img class="img" src="${contextPath}/resources/img/examples/card-project1.jpg" />
                                     </a>
                                 </div>
 
@@ -84,7 +84,7 @@
                             <div class="card card-profile">
                                 <div class="card-image">
                                     <a href="">
-                                        <img class="img" src="${contextPath}/resources/img/examples/card-profile1.jpg" />
+                                        <img class="img" src="${contextPath}/resources/img/examples/card-project2.jpg" />
                                     </a>
                                 </div>
 
@@ -104,7 +104,7 @@
                             <div class="card card-profile">
                                 <div class="card-image">
                                     <a href="">
-                                        <img class="img" src="${contextPath}/resources/img/examples/card-profile1.jpg" />
+                                        <img class="img" src="${contextPath}/resources/img/examples/card-project4.jpg" />
                                     </a>
                                 </div>
 

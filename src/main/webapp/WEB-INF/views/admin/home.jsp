@@ -632,13 +632,14 @@
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="material-icons">clear</i></button>
                         </div>
-                    <div class="modal-body text-center">
-                        <h5>Are you sure you want to do this? </h5>
-                    </div>
-                    <div class="modal-footer text-center">
-                        <button type="button" class="btn btn-simple" data-dismiss="modal">Never mind</button>
-                        <input type="hidden" name="id" value="${event.id}">
-                        <button type="submit" class="btn btn-success btn-simple">Yes</button>
+                        <div class="modal-body text-center">
+                            <h5>Are you sure you want to do this? </h5>
+                        </div>
+                        <div class="modal-footer text-center">
+                            <button type="button" class="btn btn-simple" data-dismiss="modal">Never mind</button>
+                            <input type="hidden" name="id" value="${event.id}">
+                            <button type="submit" class="btn btn-success btn-simple">Yes</button>
+                        </div>
                     </div>
                 </div>
             </div>

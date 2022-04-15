@@ -49,7 +49,9 @@
                                 <div class="card-content">
                                     <h4 class="card-title">Nhữ Đình Huy</h4>
                                     <h6 class="category text-gray">B19DCVT180</h6>
-
+                                    <p class="card-description"> 
+                                        
+                                    </p>
                                     <div class="footer">
                                         <a href="" class="btn btn-just-icon btn-twitter btn-round"><i class="fa fa-twitter"></i></a>
                                         <a href="" class="btn btn-just-icon btn-facebook btn-round"><i class="fa fa-facebook-square"></i></a>
